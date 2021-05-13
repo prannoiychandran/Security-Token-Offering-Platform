@@ -2,7 +2,7 @@
 
 ## Implementation
 - Solidity (smart contracts based on ERC20 standard)
-  -  Methods: name(), symbol(), decimals(), totalSupply(), balanceOf(), transfer(), transferFrom()
+  -  Methods: name(), symbol(), decimals(), totalSupply(), balanceOf(), allowance(), transfer(), transferFrom()
   -  Events: Approval, Transfer 
 - Ganache (Web3 provider)
 - MetaMask wallet + Rinkeby testnet 
