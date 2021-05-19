@@ -4,8 +4,8 @@
 - Solidity (smart contracts based on ERC20 standard)
   -  Methods: name(), symbol(), decimals(), totalSupply(), balanceOf(), allowance(), transfer(), transferFrom()
   -  Events: Approval, Transfer 
-- Ganache (Web3 provider for deployment tests)
-- MetaMask wallet + Rinkeby testnet 
+- Ganache (Ethereum client)
+- MetaMask wallet (Web3 provider) + Rinkeby testnet 
 - React & JavaScript (UI)
 ## Results
 ![image](https://user-images.githubusercontent.com/78432605/118181357-a9b54f00-b405-11eb-8787-85c0f2b86b41.png)
