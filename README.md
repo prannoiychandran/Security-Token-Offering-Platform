@@ -1,12 +1,12 @@
 # Security Token Offering (STO) Platform: Ethereum-Based Digital Assets
 
 ## Implementation
-- Solidity (smart contracts based on ERC20 standard)
+- Solidity (Backend smart contracts based on ERC20 standard)
   -  Methods: name(), symbol(), decimals(), totalSupply(), balanceOf(), allowance(), transfer(), transferFrom()
   -  Events: Approval, Transfer 
 - Ganache (Ethereum client)
 - MetaMask wallet (Web3 provider) + Rinkeby testnet 
-- React & JavaScript (UI)
+- React & JavaScript (Frontend UI)
 ## Results
 ![image](https://user-images.githubusercontent.com/78432605/118181357-a9b54f00-b405-11eb-8787-85c0f2b86b41.png)
 ![image](https://user-images.githubusercontent.com/78432605/118181466-cc476800-b405-11eb-9d95-d0602e4f4bc4.png)
