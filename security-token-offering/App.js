@@ -42,6 +42,7 @@ class App extends React.Component {
     return (
       <div>
         <h2>Security Token Offering (STO) Platform</h2> 
+        <img src={process.env.PUBLIC_URL + './BCS-ERC20-thegem-blog-default.png'} width="400" height="180"/>
         <p>This Ethereum dApp provides a self-service interface to create and issue security tokens.</p>
         <p>Aided by the latest developments in DeFi (decentralized finance), tokenizing an external asset results in digital, liquid contracts to preserve ownership stake.</p>
         <p>Issued tokens are compliant with the ERC20 standard and can be linked to any asset class.</p>
